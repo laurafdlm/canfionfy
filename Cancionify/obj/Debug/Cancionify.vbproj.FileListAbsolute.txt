@@ -1,0 +1,13 @@
+D:\Cancionify\Cancionify\Cancionify\bin\Debug\Cancionify.exe.config
+D:\Cancionify\Cancionify\Cancionify\bin\Debug\Cancionify.exe
+D:\Cancionify\Cancionify\Cancionify\bin\Debug\Cancionify.pdb
+D:\Cancionify\Cancionify\Cancionify\bin\Debug\Cancionify.xml
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.vbprojAssemblyReference.cache
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.Resources.resources
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.IU_ConexionBD.resources
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.vbproj.GenerateResource.cache
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.vbproj.CoreCompileInputs.cache
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.exe
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.xml
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.pdb
+D:\Cancionify\Cancionify\Cancionify\obj\Debug\Cancionify.IU_VentanaPrincipal.resources
